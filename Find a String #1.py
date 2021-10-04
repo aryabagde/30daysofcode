@@ -1,4 +1,4 @@
-"""After looking at question we can see that we need 5 iterations for finding a match between a substring(length 3) and string(length 7) 
+"""After looking at question we can see that we need 5 iterations for finding a match between a substring(length 3) and string(length 7). Keep th count using whole.
 """
 def count_substring(string, sub_string):
     whole = 0
